@@ -1,0 +1,28 @@
+{
+  "name": "vue-tjey-gauge",
+  "version": "1.0.0",
+  "description": "Vue Gauge ( polar svg ) ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjunussov/vue-tjey-gauge.git"
+  },
+  "keywords": [
+    "xsl",
+    "xml",
+    "nodejs",
+    "xhtml"
+  ],
+  "author": "tjey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjunussov/vue-tjey-gauge/issues"
+  },
+  "homepage": "https://github.com/tjunussov/vue-tjey-gauge#readme"
+}
